@@ -130,4 +130,3 @@ dados %>%
 ```
 
 A visualização acima mostra uma forma de analisar a relação entre as variáveis pelo continente dos países.
-
